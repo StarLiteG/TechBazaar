@@ -1,0 +1,11 @@
+
+# Use this command in the terminal:
+
+# pip install -r Requirements.txt
+
+# Dependencies needed to run the Website :
+
+flask
+flask-login
+flask-sqlalchemy
+flask-wtf
